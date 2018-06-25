@@ -10,5 +10,5 @@ python implementation of onset detection.
 # 2.Chord Generation using Markov chain
 This is based on ten Korean Agitation.
 
-# 3.Rythm & Melody Generation using Motive
+# 3.Rhythm & Melody Generation using Motive
 Use random
